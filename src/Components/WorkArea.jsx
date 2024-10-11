@@ -62,6 +62,10 @@ export const WorkArea = (props) => {
       setActions([...actions2]);
       setActions2(tempActions);
 
+      const tempmove=[...customMove];
+      setCustomMove([...customMove2]);
+      setCustomMove2(tempmove);
+
       r = -100;
       t = 0;
       r2 = 200;
