@@ -75,9 +75,8 @@ The Context API will help streamline state management, especially for passing do
 If the state management becomes more complex, such as handling global states across various sprites or animations, Redux will be introduced. Redux will ensure predictable state updates, making the application more maintainable and efficient as the number of components grows.
 
 ## Demo Video
-[Demo Video](https://drive.google.com/file/d/17jnvtHKk2fHpT_9VXLvB6OxQP6LZwj8f/view?usp=drive_link)
+[Demo Video](https://drive.google.com/file/d/1S3m6awweC2yAoueBNyoXcNDOeINO-CMR/view?usp=sharing)
 
-[Demo Assets](https://github.com/user-attachments/assets/bd96ddb8-9cbb-4cec-916d-985a363227d1)
 
 ## Demo of Collision and Hero Section
 [Collision Demo](https://github.com/user-attachments/assets/e710f96f-f63a-4c50-a1e0-09eb8aaac158)
